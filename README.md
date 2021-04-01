@@ -9,11 +9,11 @@ https://urbnluk.web.app/
 Stripe checkout
 
 # Node js packages used in backend server 
-  "body-parser": "^1.19.0",
-  "cors": "^2.8.5",
-  "dotenv": "^8.2.0",
-  "express": "^4.17.1",
-  "nodemon": "^2.0.4",
+  "body-parser": "^1.19.0", \
+  "cors": "^2.8.5", \
+  "dotenv": "^8.2.0", \
+  "express": "^4.17.1", \
+  "nodemon": "^2.0.4", \
   "stripe": "^8.100.0"
 
 ### Reference Udemy course
